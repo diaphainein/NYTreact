@@ -1,0 +1,28 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaphainein/NYTreact.git"
+  },
+  "author": "Lauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaphainein/NYTreact/issues"
+  },
+  "homepage": "https://github.com/diaphainein/NYTreact#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "logger": "0.0.1",
+    "morgan": "^1.8.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
